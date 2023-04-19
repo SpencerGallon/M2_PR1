@@ -50,17 +50,17 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11022}
+      Script: {instanceID: 3706}
     - Class: 114
-      Script: {instanceID: 11320}
+      Script: {instanceID: 4014}
     - Class: 114
-      Script: {instanceID: 12648}
+      Script: {instanceID: 5364}
     - Class: 114
-      Script: {instanceID: 13096}
+      Script: {instanceID: 5814}
     - Class: 114
-      Script: {instanceID: 14336}
+      Script: {instanceID: 7056}
     - Class: 114
-      Script: {instanceID: 14462}
+      Script: {instanceID: 7186}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
@@ -889,4 +889,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - Assets/Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/Owner/Documents/GitHub/M2_DV1_Move/webbuild
+  playerPath: C:/Users/Owner/Documents/GitHub/M2_PR1/webbuild
